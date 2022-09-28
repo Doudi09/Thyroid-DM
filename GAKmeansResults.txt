@@ -1,0 +1,104 @@
+Nomber of clusters : 2
+F measure : 0.5722368933270502
+E measure : 2320.660036799808
+
+
+Nomber of clusters : 3
+F measure : 0.5722368933270502
+E measure : 5252.925511611274
+
+
+Nomber of clusters : 4
+F measure : 0.6362142976153476
+E measure : 3447.6331748456832
+
+
+Nomber of clusters : 5
+F measure : 0.7212327723036493
+E measure : 6264.088632127663
+
+
+Nomber of clusters : 6
+F measure : 0.8158948151233582
+E measure : 9222.779029888532
+
+
+Nomber of clusters : 7
+F measure : 0.7748743844843495
+E measure : 9353.996492651022
+
+
+Nomber of clusters : 8
+F measure : 0.8158948151233582
+E measure : 12717.05809961327
+
+
+Nomber of clusters : 9
+F measure : 0.680003445432116
+E measure : 13700.349095320455
+
+
+Nomber of clusters : 10
+F measure : 0.6866521317829456
+E measure : 10098.733687212813
+
+
+Nomber of clusters : 11
+F measure : 0.6775778054847822
+E measure : 5440.5623837720195
+
+
+Nomber of clusters : 12
+F measure : 0.8158948151233582
+E measure : 10292.266107282361
+
+
+Nomber of clusters : 13
+F measure : 0.6866521317829456
+E measure : 11171.727577228805
+
+
+Nomber of clusters : 14
+F measure : 0.6400892730276672
+E measure : 7265.102688036158
+
+
+Nomber of clusters : 15
+F measure : 0.6328903654485049
+E measure : 11860.320172709633
+
+
+Nomber of clusters : 16
+F measure : 0.654946445011639
+E measure : 6099.62224032147
+
+
+Nomber of clusters : 17
+F measure : 0.8158948151233582
+E measure : 12408.008887761789
+
+
+Nomber of clusters : 18
+F measure : 0.6515912268306249
+E measure : 10464.38921793163
+
+
+Nomber of clusters : 19
+F measure : 0.654946445011639
+E measure : 11455.771729738695
+
+
+Nomber of clusters : 20
+F measure : 0.6515912268306249
+E measure : 13626.080133134965
+
+
+
+
+
+
+F measure : 0.8158948151233582
+Obtained with K = 6
+E measure : 2320.660036799808
+Obtained with K = 2
+Execution time = 5767.0

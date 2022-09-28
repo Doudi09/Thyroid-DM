@@ -1,0 +1,1809 @@
+The mutationrate : 0.1
+The iteration : 10
+The population size : 5
+the fitness 81.11799720725317
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 5
+the fitness 90.71718755479192
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 5
+the fitness 90.71718755479192
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 5
+the fitness 100.03149498514001
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 5
+the fitness 100.03149498514001
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 5
+the fitness 102.04585128882869
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 5
+the fitness 104.52562903482819
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 5
+the fitness 107.5617028751062
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 5
+the fitness 107.5617028751062
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 5
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 5
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 5
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 15
+the fitness 107.82563211396395
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 15
+the fitness 108.88832115991269
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 15
+the fitness 108.88832115991269
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 15
+the fitness 108.89083167984326
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 15
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 25
+the fitness 108.9304651112152
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 25
+the fitness 109.40258153656397
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 25
+the fitness 109.40258153656397
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 25
+the fitness 109.40258153656397
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 35
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 10
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 60
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 110
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.1
+The iteration : 160
+The population size : 45
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 5
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 15
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 25
+the fitness 110.93869060963901
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 25
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 35
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 10
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 60
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 110
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.30000000000000004
+The iteration : 160
+The population size : 45
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 5
+the fitness 112.38789215934945
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.5
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.7
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 5
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 15
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 25
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 35
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 10
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 60
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 110
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+The mutationrate : 0.8999999999999999
+The iteration : 160
+The population size : 45
+the fitness 112.69900111650719
+
+ 
+
+ 
+
+ 
+The best fitness : 112.69900111650719
+The best iteration: 160
+The best population size : 5
+The best mutation: 0.5
+Execution time = 5939159.0
